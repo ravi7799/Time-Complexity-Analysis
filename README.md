@@ -7,4 +7,4 @@ Graphs has been made for different Algorithms, to visualize the time complexity 
 
 Here are some Examples:
 
-https://github.com/ravi7799/Time-Complexity-Analysis/blob/master/Graph%20Generated/Heap_sort_graph.png
+<img src="https://github.com/ravi7799/Time-Complexity-Analysis/blob/master/Graph%20Generated/Heap_sort_graph.png">
