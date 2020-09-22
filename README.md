@@ -17,4 +17,6 @@ Here are some Examples:
 <img src="https://github.com/ravi7799/Time-Complexity-Analysis/blob/master/Graph%20Generated/merge_sort_graph.png">
 <img src="https://github.com/ravi7799/Time-Complexity-Analysis/blob/master/Graph%20Generated/quick_sort_graph.png">
 <img src="https://github.com/ravi7799/Time-Complexity-Analysis/blob/master/Graph%20Generated/strassens_mul_graph.png">
+<img src="https://github.com/ravi7799/Time-Complexity-Analysis/blob/master/Graph%20Generated/counting_sort_graph.png">
+<img src="https://github.com/ravi7799/Time-Complexity-Analysis/blob/master/Graph%20Generated/radix_sort_graph.png">
 </ul>
