@@ -1,0 +1,22 @@
+Number_of_Input			Number_of_comparisions
+Best_case			50000			242502
+Worst_case			50000			244439
+Avg_case			50000			243101
+Best_case			75000			363602
+Worst_case			75000			364801
+Avg_case			75000			365326
+Best_case			100000			488609
+Worst_case			100000			490781
+Avg_case			100000			489150
+Best_case			125000			608491
+Worst_case			125000			614225
+Avg_case			125000			613707
+Best_case			150000			731024
+Worst_case			150000			736832
+Avg_case			150000			735973
+Best_case			175000			852674
+Worst_case			175000			856175
+Avg_case			175000			861939
+Best_case			200000			982516
+Worst_case			200000			985837
+Avg_case			200000			986009
