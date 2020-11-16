@@ -1,0 +1,12 @@
+ 	Number_of_Input	Time_Taken
+Best_Case	100	4462400
+Best_Case	200	3145200
+Best_Case	250	6412500
+Best_Case	300	10870100
+Best_Case	350	17545000
+Best_Case	400	28782700
+Best_Case	450	39651300
+Best_Case	500	52723600
+Best_Case	600	95118100
+Best_Case	800	240673800
+Best_Case	900	327570700

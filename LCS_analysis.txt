@@ -1,0 +1,6 @@
+ 	Number_of_Input	Time_Taken
+Best_Case	5000	170447100
+Best_Case	6000	223739300
+Best_Case	7000	303067100
+Best_Case	8000	386325700
+Best_Case	10000	678055200
